@@ -1,4 +1,6 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code+Nerd&weight=500&size=40&duration=3000&pause=1&color=7287FD&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1000&height=120&lines=%E1%9D%A2%E3%85%A4%E3%85%A4%E3%85%A4%E2%84%8D%F0%9D%95%96%F0%9D%95%AA%2C%E3%85%A4%F0%9D%95%80+%F0%9D%95%92%F0%9D%95%9E+%F0%9D%94%AD%F0%9D%94%A9%F0%9D%94%B2%F0%9D%94%B1%F0%9D%94%B1%F0%9D%94%9E%F0%9D%94%AB%E3%85%A4%E3%85%A4%E3%85%A4%E1%9D%A2;+%E1%9D%A2%E3%85%A4%F0%9D%95%8A%F0%9D%95%A5%F0%9D%95%A6%F0%9D%95%95%F0%9D%95%96%F0%9D%95%9F%F0%9D%95%A5%E3%85%A4%F0%9D%95%92%F0%9D%95%9F%F0%9D%95%95%E3%85%A4%F0%9D%95%A1%F0%9D%95%A3%F0%9D%95%A0%F0%9D%95%98%F0%9D%95%A3%F0%9D%95%92%F0%9D%95%9E%F0%9D%95%9E%F0%9D%95%96%F0%9D%95%A3%E3%85%A4%E1%9D%A2" alt="Typing SVG" /></a>
+<p align="center"> <img src="https://media1.tenor.com/m/BJ-9w-MUVCMAAAAC/tis100-sad.gif" alt="pluttan" /> </p>
+
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=pluttan&label=Profile%20views&color=0e75b6&style=flat" alt="pluttan" /> </p>
 <p align="center">
 <a href="https://www.leetcode.com/pluttan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="pluttan" height="30" width="40" /></a>
