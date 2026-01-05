@@ -11,12 +11,12 @@
 <br/>
 
 <!-- ✿ Mascot GIF ✿ -->
-<img src="https://media1.tenor.com/m/FdkbSvSxI9MAAAAC/chilled-lamb-mienar.gif" alt="chilled lamb" width="200"/>
+<img src="https://media1.tenor.com/m/FdkbSvSxI9MAAAAC/chilled-lamb-mienar.gif" alt="chilled lamb" width="600"/>
 
 <br/><br/>
 
 <!-- Profile badges -->
-<img src="https://komarev.com/ghpvc/?username=pluttan&label=%E2%9C%A8%20visits&color=b4befe&style=flat" alt="Profile views"/>
+<img src="https://komarev.com/ghpvc/?username=pluttan&label=visits&color=b4befe&style=flat" alt="Profile views"/>
 
 </div>
 
