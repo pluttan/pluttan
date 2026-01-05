@@ -117,56 +117,12 @@ fun_fact: >
 
 <br/>
 
-<!-- Achievements -->
-<picture>
-  <img src="/achievements.svg" alt="Achievements" width="100%"/>
-</picture>
-
-<br/>
-
-<!-- Languages breakdown -->
-<picture>
-  <img src="/languages.svg" alt="Languages" width="100%"/>
-</picture>
-
-<br/>
-
-<!-- Coding habits -->
-<picture>
-  <img src="/habits.svg" alt="Coding Habits" width="100%"/>
-</picture>
-
-<br/>
-
 </td></tr>
 </table>
 </div>
 
 <br/>
 
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-<!-- ✿ WakaTime ✿ -->
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-
-<div align="center">
-<table>
-<tr><td>
-
-### ✿ Coding Activity
-
-<br/>
-
-<!--START_SECTION:waka-->
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=pluttan&hide_border=true&border_radius=15&bg_color=eff1f5&title_color=7287fd&text_color=4c4f69&layout=compact" alt="WakaTime Stats"/>
-<!--END_SECTION:waka-->
-
-<br/>
-
-</td></tr>
-</table>
-</div>
-
-<br/>
 
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 <!-- ✿ Socials ✿ -->
@@ -180,11 +136,17 @@ fun_fact: >
 
 <br/>
 
-<a href="https://www.leetcode.com/pluttan">
-  <img src="https://img.shields.io/badge/LeetCode-eff1f5?style=for-the-badge&logo=leetcode&logoColor=7287fd" alt="LeetCode"/>
+<a href="https://t.me/pluttanru">
+  <img src="https://img.shields.io/badge/Telegram-eff1f5?style=for-the-badge&logo=telegram&logoColor=7287fd" alt="Telegram"/>
+</a>
+<a href="https://vk.com/pluttan">
+  <img src="https://img.shields.io/badge/VK-eff1f5?style=for-the-badge&logo=vk&logoColor=7287fd" alt="VK"/>
 </a>
 <a href="https://github.com/pluttan">
   <img src="https://img.shields.io/badge/GitHub-eff1f5?style=for-the-badge&logo=github&logoColor=7287fd" alt="GitHub"/>
+</a>
+<a href="https://www.leetcode.com/pluttan">
+  <img src="https://img.shields.io/badge/LeetCode-eff1f5?style=for-the-badge&logo=leetcode&logoColor=7287fd" alt="LeetCode"/>
 </a>
 
 <br/><br/>
