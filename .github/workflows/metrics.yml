@@ -45,11 +45,13 @@ jobs:
           template: classic
           base: ""
           config_timezone: Europe/Moscow
+          plugins_errors_fatal: no
           
-          # Achievements plugin
+          # Achievements plugin - compact display, show unlocked only
           plugin_achievements: yes
           plugin_achievements_display: compact
-          plugin_achievements_threshold: C
+          plugin_achievements_threshold: B
+          plugin_achievements_secrets: yes
           
       # ==============================================
       # Languages breakdown
@@ -63,6 +65,7 @@ jobs:
           template: classic
           base: ""
           config_timezone: Europe/Moscow
+          plugins_errors_fatal: no
           
           # Languages plugin
           plugin_languages: yes
@@ -74,7 +77,7 @@ jobs:
             html, css, tex, makefile, cmake, qml, rich text format
           
       # ==============================================
-      # Coding habits
+      # Coding habits (without charts - needs less permissions)
       # ==============================================
       - name: Generate Habits
         uses: lowlighter/metrics@latest
@@ -85,12 +88,11 @@ jobs:
           template: classic
           base: ""
           config_timezone: Europe/Moscow
+          plugins_errors_fatal: no
           
-          # Habits plugin
+          # Habits plugin - facts only (charts require more API access)
           plugin_habits: yes
           plugin_habits_from: 200
           plugin_habits_days: 14
           plugin_habits_facts: yes
-          plugin_habits_charts: yes
-          plugin_habits_charts_type: classic
-          plugin_habits_trim: yes
+          plugin_habits_charts: no
