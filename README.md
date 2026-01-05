@@ -21,16 +21,8 @@
 
 <!-- ═══ About Me ═══ -->
 
-<div align="center">
-
-<pre>
-╭───────────────────────╮
-       𝕬𝖇𝖔𝖚𝖙 𝖒𝖊      
-╰───────────────────────╯
-</pre>
-
-</div>
-
+<details>
+<summary><b>𝕬𝖇𝖔𝖚𝖙 𝖒𝖊</b></summary>
 <div align="left" style="margin: 0% 20%">
 
 ```yaml
@@ -44,16 +36,13 @@ interests:
   - System Programming 💾
 ```
 </div>
+</details>
 
 <!-- ═══ Tech Stack ═══ -->
 
+<details>
+<summary><b>𝔗𝔢𝔠𝔥 𝔰𝔱𝔞𝔠𝔨</b></summary>
 <div align="center">
-
-<pre>
-╭─────────────────────────╮
-    𝔗𝔢𝔠𝔥 𝔰𝔱𝔞𝔠𝔨    
-╰─────────────────────────╯
-</pre>
 
 <p>
   <img src="https://skillicons.dev/icons?i=c,cpp,python,ts,js,rust&theme=dark" alt="languages"/>
@@ -66,32 +55,26 @@ interests:
 </p>
 
 </div>
+</details>
 
 <!-- ═══ GitHub Stats ═══ -->
 
+<details>
+<summary><b>𝔊𝔦𝔱𝔥𝔲𝔟 𝔰𝔱𝔞𝔱𝔰</b></summary>
 <div align="center">
-
-<pre>
-╭─────────────────────────────╮
-       𝔊𝔦𝔱𝔥𝔲𝔟 𝔰𝔱𝔞𝔱𝔰      
-╰─────────────────────────────╯
-</pre>
 
 <picture>
   <img src="/metrics.svg" alt="GitHub Metrics" width="100%"/>
 </picture>
 
 </div>
+</details>
 
 <!-- ═══ Find Me ═══ -->
 
+<details>
+<summary><b>𝔉𝔦𝔫𝔡 𝔪𝔢</b></summary>
 <div align="center">
-
-<pre>
-╭─────────────────────╮
-      𝔉𝔦𝔫𝔡 𝔪𝔢      
-╰─────────────────────╯
-</pre>
 
 <a href="https://t.me/pluttanru">
   <img src="https://img.shields.io/badge/Telegram-1e1e2e?style=for-the-badge&logo=telegram&logoColor=89b4fa" alt="Telegram"/>
@@ -107,6 +90,7 @@ interests:
 </a>
 
 </div>
+</details>
 
 <!-- ═══ Footer ═══ -->
 
